@@ -7,7 +7,8 @@ The remainder will come from notebook organization, ccode comments, etc .
 For the questions that have answers, please also provide those in markdown cells in the notebook, and/or part of a mardown file in the repo .  
 The link to the notebook will be provided in a github repo in the same way that as the in class . Additionally, you will send an email to joe@adaltas.com when the project has been submitted . Please ensure that the names of all participants are included in the repo and in the submissioin email . 
 
-1. load data
+1. [load data from here](https://datasets.imdbws.com/)  
+**NOTE:** You may not need all of the datasets, but you will be utilizing most of them .  
 2. How many total people in data set
 3. what is the earliest year of birth
 4. how many years ago was this person born
